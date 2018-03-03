@@ -14,6 +14,7 @@
   ],
   "author": "eason",
   "license": "ISC",
+  "repository": "lys623/clean-sketch-loader",
   "dependencies": {
     "clean-sketch": "^1.0.1"
   }
